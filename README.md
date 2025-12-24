@@ -12,6 +12,6 @@ This repository dcouments my 4-week introduction into Manchine Learning
 * [Iris Project](./week-1/iris_project.ipynb): My first classification model.
 
 ## Tech Stack
-**Language:** Python 3
-**Librairies:** NumPy, Pandas, Scikit-Learn
-**Environmnt:** Jupyter Notebooks
+* **Language:** Python 3
+* **Librairies:** NumPy, Pandas, Scikit-Learn
+* **Environmnt:** Jupyter Notebooks
