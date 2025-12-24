@@ -1,4 +1,4 @@
-# My Machine Learning Journey: From Zero to Model 🚀
+# Machine Learning Journey: From Zero to Model 🚀
 This repository dcouments my 4-week introduction into Manchine Learning
 
 ## 📅 Progress Tracker
