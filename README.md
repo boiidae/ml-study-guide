@@ -11,7 +11,7 @@ This repository dcouments my 4-week introduction into Manchine Learning
 * [Week 1 Notes](./week-1/notes.ipynb): Linear Algebra and Pandas basics.
 * [Iris Project](./week-1/iris_project.ipynb): My first classification model.
 
-## Tech Stack
+## 🛠️ Tech Stack
 * **Language:** Python 3
 * **Librairies:** NumPy, Pandas, Scikit-Learn
 * **Environmnt:** Jupyter Notebooks
