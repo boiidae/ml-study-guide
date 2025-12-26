@@ -1,0 +1,13 @@
+Iris Dataset – Data Foundations, Grouping, and Vector Scoring
+
+In this assignment, I worked with the Iris Flower dataset to reinforce foundational concepts from Week 1, including descriptive statistics, data aggregation, and vector operations.
+
+First, I inspected the dataset using the Pandas .info() method to confirm data types, validate that all 150 observations were present, and ensure there were no missing values. This step is equivalent to performing a quality inspection before conducting statistical analysis or modeling.
+
+Next, I generated summary statistics using .describe() to compute count, mean, standard deviation, minimum, maximum, and quartile values for each numerical feature. These statistics provided an overall understanding of feature distributions and central tendencies. I also manually calculated the mean of the sepal length (cm) column to reinforce the concept of central tendency from Statistics & Probability.
+
+I then grouped the data by Iris species using .groupby() and calculated mean measurements for each species. This aggregation condenses the dataset into meaningful summaries and mirrors real-world data preparation steps often required prior to machine learning.
+
+Finally, I applied a vector dot-product calculation to treat the measurements of a single flower as a feature vector. By multiplying this vector by a predefined weight vector, I produced a scalar “score.” This operation demonstrates the mathematical foundation of linear models and serves as a conceptual bridge from basic linear algebra to predictive modeling.
+
+Together, these steps form an end-to-end workflow connecting statistics, data manipulation, and linear algebra—laying the groundwork for building classifiers in future weeks.
